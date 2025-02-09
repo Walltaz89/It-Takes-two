@@ -1,6 +1,7 @@
 h1,h2,h3,h4{
     color: #FF5733;
     font-family: "Alfa Slab One", serif;
+    font-size: large;
     
 }
 body{
@@ -8,8 +9,4 @@ body{
     text-align: center;
     font-family: "Rowdies", serif;
 
-}
-title-site-box{
-    background-color: white;
-    text-align: left;
 }
